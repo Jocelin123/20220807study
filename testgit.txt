@@ -1,7 +1,11 @@
 123
 456
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am talent
+=======
+I am not talent
+>>>>>>> v0.1
 =======
 I am not talent
 >>>>>>> v0.1

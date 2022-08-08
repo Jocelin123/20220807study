@@ -1,0 +1,5 @@
+[2022-06-28 16:22:58,422] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.login object at 0x0367D050>页面中未能找到('id', 'login-btn')元素
+[2022-06-28 16:23:09,544] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.login object at 0x0367DCD0>页面中未能找到('id', 'login-btn')元素
+[2022-06-28 16:23:20,670] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.login object at 0x0367DDB0>页面中未能找到('id', 'login-btn')元素
+[2022-06-28 16:23:31,824] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.login object at 0x0367D4D0>页面中未能找到('id', 'login-btn')元素
+[2022-06-28 16:23:43,089] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.login object at 0x0367D550>页面中未能找到('id', 'login-btn')元素

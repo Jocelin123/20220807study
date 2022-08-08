@@ -1,0 +1,1 @@
+[2022-07-01 11:02:36,297] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.login object at 0x03852690>页面中未能找到('xpath', "//*[text()='我的抽友']")元素

@@ -1,0 +1,2 @@
+[2022-06-30 15:49:51,824] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.login object at 0x03F5B290>页面中未能找到('xpath', 'userProNick')元素
+[2022-06-30 15:50:11,556] [log.py|__console] [line:46] ERROR   : <public.page_obj.setupPage.setup object at 0x03F5F790>页面中未能找到('id', 'userProNick')元素

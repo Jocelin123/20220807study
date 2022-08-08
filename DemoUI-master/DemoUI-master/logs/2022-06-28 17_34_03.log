@@ -1,0 +1,1 @@
+[2022-06-28 17:34:17,592] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.login object at 0x040255F0>页面中未能找到('id', '//*[@name="phone" and @type="text"]')元素

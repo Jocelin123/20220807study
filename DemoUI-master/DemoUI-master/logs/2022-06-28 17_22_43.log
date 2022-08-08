@@ -1,0 +1,1 @@
+[2022-06-28 17:22:58,022] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.login object at 0x03F9C430>页面中未能找到('id', '//div[@class="login-body"]/div/div/input[@name="phone"]')元素

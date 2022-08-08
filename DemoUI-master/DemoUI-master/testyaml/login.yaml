@@ -1,0 +1,39 @@
+testinfo:
+      - id: test_login001
+        title: 登录测试
+        info: 打开抽屉首页
+testcase:
+      - element_info: login_btn
+        find_type: ID
+        operate_type: click
+        info: 打开登录对话框
+      - element_info: //*[@name="phone" and @type="text"]
+        find_type: XPATH
+        operate_type: send_keys
+        info: 输入手机号
+      - element_info: //div[@class="login-footer"]/div/div/input
+        find_type: XPATH
+        operate_type: send_keys
+        info: 输入密码
+      - element_info: //div[@class="login-footer"]/div/button
+        find_type: XPATH
+        operate_type: click
+        info: 单击登录按钮
+      - element_info: //*[@class="avatar-icon"]
+        find_type: XPATH
+        operate_type: perform
+        info: 鼠标悬停账户菜单
+      - element_info: //a[@class='logout']
+        find_type: XPATH
+        operate_type: click
+        info: 选择退出
+check:
+      - element_info: //div[@class="login-footer"]/div[3]/div[1]
+        find_type: XPATH
+        info: 检查输入手机号或密码，登录异常提示
+      - element_info: //*[text()='我的抽友']
+        find_type: ID
+        info: 成功登录
+      - element_info: reg-link-a
+        find_type: ID
+        info: 检查退出登录是否成功
